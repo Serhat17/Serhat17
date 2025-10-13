@@ -9,7 +9,7 @@
 ---
 
 ### ⚙️ About Me
-- 💻 Polyglot developer passionate about **Go, Java, and modern web frameworks**  
+- 💻 Polyglot developer passionate about **Typescript, Dart, JS, Go, Java, and modern web frameworks**  
 - 🚀 Building fintech, AI, and web apps that focus on **speed, usability, and security**  
 - 🧩 Strong understanding of **architecture, concurrency, and API design**  
 - 🌱 Constantly learning new stacks and improving developer experience  
